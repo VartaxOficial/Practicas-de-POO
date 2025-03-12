@@ -1,0 +1,7 @@
+C:\Users\Pc\source\repos\Parcial 1 POO\Parcial 1 POO\bin\Debug\Parcial 1 POO.exe.config
+C:\Users\Pc\source\repos\Parcial 1 POO\Parcial 1 POO\bin\Debug\Parcial 1 POO.exe
+C:\Users\Pc\source\repos\Parcial 1 POO\Parcial 1 POO\bin\Debug\Parcial 1 POO.pdb
+C:\Users\Pc\source\repos\Parcial 1 POO\Parcial 1 POO\obj\Debug\Parcial 1 POO.csproj.AssemblyReference.cache
+C:\Users\Pc\source\repos\Parcial 1 POO\Parcial 1 POO\obj\Debug\Parcial 1 POO.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\Parcial 1 POO\Parcial 1 POO\obj\Debug\Parcial 1 POO.exe
+C:\Users\Pc\source\repos\Parcial 1 POO\Parcial 1 POO\obj\Debug\Parcial 1 POO.pdb
